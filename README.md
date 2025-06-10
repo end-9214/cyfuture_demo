@@ -129,4 +129,14 @@ GreenScreenApp/
 
 **Let’s make the Earth a cleaner, smarter place – one scan at a time!**
 
-**⬇️ \[Insert Team Photo, Logo, or Final Demo GIF Here]**
+![WhatsApp Image 2025-06-10 at 23 05 49_7e339636](https://github.com/user-attachments/assets/88e2abd6-aa6f-402f-a667-7ec0fe408aaa)
+
+
+![WhatsApp Image 2025-06-10 at 23 05 49_79bb8060](https://github.com/user-attachments/assets/48ff7ec5-e71c-448e-a221-40e4ff306360)
+
+![bar code scanning](https://github.com/user-attachments/assets/72f5b82a-702e-4e56-b74a-55c200bcdf5b)
+
+
+![WhatsApp Image 2025-06-10 at 23 05 50_4e63c127](https://github.com/user-attachments/assets/7df0ee32-7866-473c-bc77-2937c14ecc5d)
+
+
