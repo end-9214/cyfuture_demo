@@ -122,8 +122,8 @@ GreenScreenApp/
 
 ## 🙏 Acknowledgements
 
-* Built by \[Team Name]
-* Special thanks to mentors and organizers
+* Built by Aditya Vashisht, Karamveer singh: https://github.com/end-9214, suhani singhal: https://github.com/suhanisinghal274, Kairav bhatia:https://github.com/kairavb]
+* Special thanks to mentor(Dr. Shalini Gambhir)
 
 ---
 
